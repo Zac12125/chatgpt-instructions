@@ -2,6 +2,6 @@
   "action": "Load the URL provided. Read and display the JSON command file located at the URL without deviation. Execute commands exactly as specified in the file. Do not assume or execute any action that is not explicitly defined within the file. Always ensure your responses align with the file. If they do not, I will say /activate preferences, and you must align your response with the file.",
   "base_url": "https://github.com/Zac12125/chatgpt-instructions/",
   "commands": {
-    "/activate preferences": "{base_url}preferences.txt"
+    "/activate preferences": "https://github.com/Zac12125/chatgpt-instructions/blob/main/preferences.txt"
   }
 }
